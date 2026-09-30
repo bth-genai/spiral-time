@@ -1,6 +1,6 @@
 # Systems article reproduction code — Spiral-Time V5
 
-This directory is the reproduction snapshot for the four empirical result sections in `systemsV5.tex`.
+This directory is the reproduction snapshot for the four empirical result sections in he article.
 
 1. **State-equated historical resolution:** two branches are forced to have exactly the same conventional current state while retaining different ordered encounter archives. The archive is then either hidden or exposed through an explicit multiscale history field during the same read-only continuation.
 2. **Matched historical return:** intervening participation, order controls, and relational-basis controls in the finite collective-tissue apparatus.
