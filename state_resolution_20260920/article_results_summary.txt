@@ -1,0 +1,161 @@
+{
+  "worlds": 100,
+  "resolutions": {
+    "0": {
+      "label": "current-state only",
+      "mean_phase_rms": {
+        "mean": 0.0,
+        "median": 0.0,
+        "ci95_low": 0.0,
+        "ci95_high": 0.0,
+        "maximum": 0.0
+      },
+      "mean_alignment_rmse": {
+        "mean": 0.0,
+        "median": 0.0,
+        "ci95_low": 0.0,
+        "ci95_high": 0.0,
+        "maximum": 0.0
+      },
+      "final_ab_alignment_difference": {
+        "mean": 0.0,
+        "median": 0.0,
+        "ci95_low": 0.0,
+        "ci95_high": 0.0,
+        "maximum": 0.0
+      },
+      "history_field_distance_AB": {
+        "mean": 0.0,
+        "median": 0.0,
+        "ci95_low": 0.0,
+        "ci95_high": 0.0,
+        "maximum": 0.0
+      },
+      "history_field_distance_BC": {
+        "mean": 0.0,
+        "median": 0.0,
+        "ci95_low": 0.0,
+        "ci95_high": 0.0,
+        "maximum": 0.0
+      },
+      "maximum_conventional_state_error": 0.0
+    },
+    "1": {
+      "label": "last 1",
+      "mean_phase_rms": {
+        "mean": 0.015228909955247094,
+        "median": 0.014664221941576745,
+        "ci95_low": 0.014686289702640395,
+        "ci95_high": 0.01580457626221763,
+        "maximum": 0.02672176384332861
+      },
+      "mean_alignment_rmse": {
+        "mean": 0.014718246884552161,
+        "median": 0.014646187524416633,
+        "ci95_low": 0.014257351762706651,
+        "ci95_high": 0.015178102886384923,
+        "maximum": 0.021543979889005704
+      },
+      "final_ab_alignment_difference": {
+        "mean": 0.02654943328794317,
+        "median": 0.026460849245691143,
+        "ci95_low": 0.025570791888370314,
+        "ci95_high": 0.027561096947970532,
+        "maximum": 0.04300660574873655
+      },
+      "history_field_distance_AB": {
+        "mean": 2.208366774215367,
+        "median": 2.156249474881944,
+        "ci95_low": 2.1488508747621236,
+        "ci95_high": 2.273354125031098,
+        "maximum": 4.015798378004188
+      },
+      "history_field_distance_BC": {
+        "mean": 2.184494038519202,
+        "median": 2.097038231773683,
+        "ci95_low": 2.1162515477690476,
+        "ci95_high": 2.256399760872695,
+        "maximum": 3.46557399103492
+      },
+      "maximum_conventional_state_error": 0.0
+    },
+    "4": {
+      "label": "last 4",
+      "mean_phase_rms": {
+        "mean": 0.015096822921269546,
+        "median": 0.014474147308836428,
+        "ci95_low": 0.014531195128734836,
+        "ci95_high": 0.01568250057514776,
+        "maximum": 0.02889460183757736
+      },
+      "mean_alignment_rmse": {
+        "mean": 0.014654532332585546,
+        "median": 0.014560261420455443,
+        "ci95_low": 0.014189837521330025,
+        "ci95_high": 0.015113906613901884,
+        "maximum": 0.021556608250683038
+      },
+      "final_ab_alignment_difference": {
+        "mean": 0.026700776229640906,
+        "median": 0.026667035234253844,
+        "ci95_low": 0.025697134550944783,
+        "ci95_high": 0.02769385012078733,
+        "maximum": 0.041873592723275954
+      },
+      "history_field_distance_AB": {
+        "mean": 2.233883487209516,
+        "median": 2.154174430029614,
+        "ci95_low": 2.1717731107878886,
+        "ci95_high": 2.3128691634464094,
+        "maximum": 4.612168424470595
+      },
+      "history_field_distance_BC": {
+        "mean": 2.1572377773523037,
+        "median": 2.110254055682968,
+        "ci95_low": 2.0896141573895988,
+        "ci95_high": 2.2294955796512164,
+        "maximum": 3.364935324793513
+      },
+      "maximum_conventional_state_error": 0.0
+    },
+    "-1": {
+      "label": "full archive",
+      "mean_phase_rms": {
+        "mean": 0.01389718320084548,
+        "median": 0.012948689751653853,
+        "ci95_low": 0.013266379695103513,
+        "ci95_high": 0.014607416532811146,
+        "maximum": 0.02950782303075183
+      },
+      "mean_alignment_rmse": {
+        "mean": 0.012275639296855753,
+        "median": 0.012254354161254926,
+        "ci95_low": 0.011726958492205328,
+        "ci95_high": 0.012836895462442242,
+        "maximum": 0.019703538391194216
+      },
+      "final_ab_alignment_difference": {
+        "mean": 0.02228303028458496,
+        "median": 0.02251951801096419,
+        "ci95_low": 0.0212680596800122,
+        "ci95_high": 0.02331891777513339,
+        "maximum": 0.04011998171711434
+      },
+      "history_field_distance_AB": {
+        "mean": 2.194170049070761,
+        "median": 2.0591414507570116,
+        "ci95_low": 2.106736146384276,
+        "ci95_high": 2.2938411713193614,
+        "maximum": 4.698337999994992
+      },
+      "history_field_distance_BC": {
+        "mean": 2.246365006303115,
+        "median": 2.18803368082643,
+        "ci95_low": 2.1457760820368144,
+        "ci95_high": 2.348139943195235,
+        "maximum": 3.5037709854414736
+      },
+      "maximum_conventional_state_error": 0.0
+    }
+  }
+}
