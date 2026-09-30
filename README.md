@@ -1,4 +1,4 @@
-# Systems article reproduction code — Spiral-Time V5
+# Article reproduction code — Spiral-Time V5
 
 This directory is the reproduction snapshot for the four empirical result sections in the article.
 
